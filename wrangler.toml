@@ -2,3 +2,4 @@ name = "gmafx-test"
 main = "_afxworker.js"
 compatibility_date = "2026-10-01"
 workers_dev = true
+account_id = "3c59d188ebcc1614078821b9a1540950"
